@@ -1,1 +1,1 @@
-# web3fruit.github.io
+# web3fruits.github.io
