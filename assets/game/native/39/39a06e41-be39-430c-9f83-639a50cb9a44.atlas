@@ -1,0 +1,48 @@
+
+liuxingyu.png
+size: 513,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_000
+  rotate: false
+  xy: 219, 24
+  size: 192, 219
+  orig: 512, 512
+  offset: 164, 207
+  index: -1
+bao_001
+  rotate: false
+  xy: 2, 2
+  size: 215, 241
+  orig: 512, 512
+  offset: 147, 201
+  index: -1
+bao_002
+  rotate: true
+  xy: 259, 245
+  size: 209, 252
+  orig: 512, 512
+  offset: 155, 197
+  index: -1
+bao_003
+  rotate: true
+  xy: 2, 301
+  size: 242, 255
+  orig: 512, 512
+  offset: 113, 202
+  index: -1
+lx000
+  rotate: false
+  xy: 311, 456
+  size: 200, 199
+  orig: 350, 350
+  offset: 77, 76
+  index: -1
+tw_000
+  rotate: true
+  xy: 2, 545
+  size: 110, 307
+  orig: 350, 350
+  offset: 108, 40
+  index: -1

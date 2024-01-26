@@ -1,0 +1,111 @@
+
+yuanshitoumaoshou.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: false
+  xy: 1, 65
+  size: 126, 61
+  orig: 126, 61
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 60, 37
+  size: 22, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1, 26
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 1, 4
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 100, 1
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 103, 13
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+youxiabi
+  rotate: true
+  xy: 60, 7
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 34, 5
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 83, 40
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 121, 27
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 60, 23
+  size: 42, 13
+  orig: 44, 13
+  offset: 1, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 85, 3
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 102, 37
+  size: 9, 18
+  orig: 18, 37
+  offset: 9, 19
+  index: -1
+zuoxiabi
+  rotate: true
+  xy: 31, 31
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 102, 47
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1

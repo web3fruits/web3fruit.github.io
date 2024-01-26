@@ -1,0 +1,83 @@
+
+jianzhushengji.png
+size: 383,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_extraglow_y_2_000
+  rotate: true
+  xy: 220, 24
+  size: 104, 147
+  orig: 140, 320
+  offset: 21, 66
+  index: -1
+c_extraglow_y_2_001
+  rotate: false
+  xy: 2, 24
+  size: 111, 171
+  orig: 140, 320
+  offset: 16, 49
+  index: -1
+c_extraglow_y_2_002
+  rotate: true
+  xy: 192, 231
+  size: 116, 188
+  orig: 140, 320
+  offset: 14, 47
+  index: -1
+c_extraglow_y_2_003
+  rotate: true
+  xy: 2, 446
+  size: 134, 194
+  orig: 140, 320
+  offset: 6, 47
+  index: -1
+c_extraglow_y_2_004
+  rotate: true
+  xy: 2, 307
+  size: 137, 188
+  orig: 140, 320
+  offset: 3, 53
+  index: -1
+c_extraglow_y_2_005
+  rotate: true
+  xy: 198, 464
+  size: 116, 183
+  orig: 140, 320
+  offset: 16, 64
+  index: -1
+c_extraglow_y_2_006
+  rotate: true
+  xy: 198, 349
+  size: 113, 180
+  orig: 140, 320
+  offset: 19, 55
+  index: -1
+c_extraglow_y_2_007
+  rotate: true
+  xy: 2, 197
+  size: 108, 174
+  orig: 140, 320
+  offset: 22, 55
+  index: -1
+c_extraglow_y_2_008
+  rotate: false
+  xy: 115, 25
+  size: 103, 170
+  orig: 140, 320
+  offset: 23, 56
+  index: -1
+c_extraglow_y_2_009
+  rotate: true
+  xy: 220, 130
+  size: 99, 160
+  orig: 140, 320
+  offset: 25, 63
+  index: -1
+c_extraglow_y_2_010
+  rotate: true
+  xy: 2, 2
+  size: 20, 99
+  orig: 140, 320
+  offset: 74, 75
+  index: -1

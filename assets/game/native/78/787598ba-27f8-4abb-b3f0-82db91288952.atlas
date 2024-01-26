@@ -1,0 +1,83 @@
+
+toushiche.png
+size: 40,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy
+  rotate: false
+  xy: 2, 277
+  size: 35, 41
+  orig: 37, 45
+  offset: 0, 2
+  index: -1
+hy1
+  rotate: false
+  xy: 2, 150
+  size: 34, 38
+  orig: 37, 45
+  offset: 1, 2
+  index: -1
+hy2
+  rotate: false
+  xy: 2, 233
+  size: 33, 42
+  orig: 37, 45
+  offset: 1, 2
+  index: -1
+hy3
+  rotate: false
+  xy: 2, 190
+  size: 34, 41
+  orig: 37, 45
+  offset: 1, 2
+  index: -1
+hy4
+  rotate: false
+  xy: 2, 409
+  size: 35, 44
+  orig: 37, 45
+  offset: 1, 1
+  index: -1
+hy5
+  rotate: false
+  xy: 2, 110
+  size: 34, 38
+  orig: 37, 45
+  offset: 1, 2
+  index: -1
+hy6
+  rotate: false
+  xy: 2, 365
+  size: 36, 42
+  orig: 37, 45
+  offset: 1, 2
+  index: -1
+hy7
+  rotate: false
+  xy: 2, 70
+  size: 35, 38
+  orig: 37, 45
+  offset: 1, 2
+  index: -1
+hy8
+  rotate: false
+  xy: 2, 320
+  size: 34, 43
+  orig: 37, 45
+  offset: 1, 2
+  index: -1
+hy9
+  rotate: false
+  xy: 2, 29
+  size: 33, 39
+  orig: 37, 45
+  offset: 0, 2
+  index: -1
+st
+  rotate: false
+  xy: 2, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1

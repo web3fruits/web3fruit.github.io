@@ -1,0 +1,118 @@
+
+liulangfashi.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 92, 77
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 94, 2
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 107, 9
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 150, 88
+  size: 39, 38
+  orig: 39, 39
+  offset: 0, 1
+  index: -1
+weijing
+  rotate: true
+  xy: 92, 33
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+weijing1
+  rotate: false
+  xy: 141, 42
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+wq
+  rotate: true
+  xy: 1, 31
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 131, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: false
+  xy: 115, 84
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 1, 2
+  size: 28, 37
+  orig: 39, 46
+  offset: 10, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 72, 6
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: false
+  xy: 119, 9
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 172, 17
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 127, 41
+  size: 42, 13
+  orig: 44, 13
+  offset: 1, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 39, 4
+  size: 26, 32
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 162, 52
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1

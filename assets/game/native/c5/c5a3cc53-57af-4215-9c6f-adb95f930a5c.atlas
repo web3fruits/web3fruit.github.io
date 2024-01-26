@@ -1,0 +1,160 @@
+
+mabi.png
+size: 767,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/1
+  rotate: false
+  xy: 2, 21
+  size: 111, 124
+  orig: 120, 126
+  offset: 7, 2
+  index: -1
+3/2
+  rotate: true
+  xy: 115, 38
+  size: 107, 84
+  orig: 120, 126
+  offset: 6, 0
+  index: -1
+3/3
+  rotate: false
+  xy: 201, 90
+  size: 116, 55
+  orig: 120, 126
+  offset: 0, 1
+  index: -1
+3/4
+  rotate: false
+  xy: 201, 38
+  size: 120, 50
+  orig: 120, 126
+  offset: 0, 1
+  index: -1
+idle_000
+  rotate: true
+  xy: 2, 4
+  size: 15, 25
+  orig: 133, 171
+  offset: 30, 36
+  index: -1
+idle_001
+  rotate: false
+  xy: 706, 2
+  size: 41, 43
+  orig: 133, 171
+  offset: 32, 35
+  index: -1
+idle_002
+  rotate: false
+  xy: 608, 79
+  size: 56, 66
+  orig: 133, 171
+  offset: 29, 35
+  index: -1
+idle_003
+  rotate: false
+  xy: 452, 30
+  size: 58, 72
+  orig: 133, 171
+  offset: 34, 36
+  index: -1
+idle_004
+  rotate: false
+  xy: 323, 17
+  size: 67, 83
+  orig: 133, 171
+  offset: 32, 36
+  index: -1
+idle_005
+  rotate: false
+  xy: 392, 18
+  size: 58, 82
+  orig: 133, 171
+  offset: 37, 36
+  index: -1
+idle_006
+  rotate: false
+  xy: 512, 10
+  size: 44, 92
+  orig: 133, 171
+  offset: 46, 39
+  index: -1
+idle_007
+  rotate: true
+  xy: 319, 102
+  size: 43, 101
+  orig: 133, 171
+  offset: 47, 36
+  index: -1
+idle_008
+  rotate: true
+  xy: 422, 104
+  size: 41, 100
+  orig: 133, 171
+  offset: 51, 36
+  index: -1
+idle_009
+  rotate: true
+  xy: 115, 3
+  size: 33, 99
+  orig: 133, 171
+  offset: 57, 36
+  index: -1
+idle_010
+  rotate: true
+  xy: 216, 5
+  size: 31, 90
+  orig: 133, 171
+  offset: 61, 45
+  index: -1
+idle_011
+  rotate: false
+  xy: 719, 98
+  size: 46, 47
+  orig: 133, 171
+  offset: 49, 45
+  index: -1
+idle_012
+  rotate: false
+  xy: 524, 106
+  size: 78, 39
+  orig: 133, 171
+  offset: 26, 40
+  index: -1
+idle_013
+  rotate: true
+  xy: 558, 25
+  size: 79, 48
+  orig: 133, 171
+  offset: 28, 36
+  index: -1
+idle_014
+  rotate: true
+  xy: 608, 3
+  size: 74, 47
+  orig: 133, 171
+  offset: 29, 36
+  index: -1
+idle_015
+  rotate: true
+  xy: 657, 12
+  size: 65, 47
+  orig: 133, 171
+  offset: 32, 36
+  index: -1
+idle_016
+  rotate: true
+  xy: 666, 92
+  size: 53, 51
+  orig: 133, 171
+  offset: 38, 36
+  index: -1
+idle_017
+  rotate: true
+  xy: 706, 47
+  size: 43, 56
+  orig: 133, 171
+  offset: 44, 34
+  index: -1

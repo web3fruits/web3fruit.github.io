@@ -1,0 +1,97 @@
+
+jianjiaqiangshou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuzi
+  rotate: true
+  xy: 48, 10
+  size: 21, 33
+  orig: 21, 77
+  offset: 0, 15
+  index: -1
+shenti
+  rotate: true
+  xy: 1, 10
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 129, 72
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+wq
+  rotate: false
+  xy: 1, 32
+  size: 127, 94
+  orig: 127, 94
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 126, 4
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 129, 98
+  size: 18, 28
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 129, 98
+  size: 18, 28
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 125, 18
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 110, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 110, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 82, 18
+  size: 42, 13
+  orig: 44, 13
+  offset: 1, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 129, 52
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 82, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1

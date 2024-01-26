@@ -1,0 +1,104 @@
+
+jidimofashi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifeng
+  rotate: false
+  xy: 1, 25
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 61, 1
+  size: 52, 62
+  orig: 58, 62
+  offset: 6, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 70, 54
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 1, 79
+  size: 14, 114
+  orig: 14, 114
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 72, 95
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 72, 95
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 14, 97
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: true
+  xy: 1, 62
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 109, 94
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 109, 94
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 29, 95
+  size: 42, 13
+  orig: 44, 13
+  offset: 1, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 94, 95
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1, 99
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 32, 58
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1

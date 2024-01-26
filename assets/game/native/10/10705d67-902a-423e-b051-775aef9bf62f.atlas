@@ -1,0 +1,132 @@
+
+minifeiting.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0
+  rotate: true
+  xy: 129, 138
+  size: 11, 10
+  orig: 13, 12
+  offset: 1, 0
+  index: -1
+baozha1
+  rotate: false
+  xy: 129, 126
+  size: 10, 11
+  orig: 13, 12
+  offset: 1, 1
+  index: -1
+baozha2
+  rotate: false
+  xy: 129, 150
+  size: 11, 11
+  orig: 13, 12
+  offset: 1, 1
+  index: -1
+baozha3
+  rotate: false
+  xy: 129, 204
+  size: 12, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+baozha4
+  rotate: true
+  xy: 129, 190
+  size: 13, 11
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+baozha5
+  rotate: true
+  xy: 129, 176
+  size: 13, 11
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+baozha6
+  rotate: true
+  xy: 129, 162
+  size: 13, 11
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+baozha7
+  rotate: false
+  xy: 107, 32
+  size: 10, 8
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+baozha8
+  rotate: true
+  xy: 118, 32
+  size: 8, 7
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+feiting
+  rotate: true
+  xy: 1, 63
+  size: 192, 127
+  orig: 192, 128
+  offset: 0, 1
+  index: -1
+fire_boom
+  rotate: true
+  xy: 1, 1
+  size: 61, 39
+  orig: 63, 40
+  offset: 1, 0
+  index: -1
+gan1
+  rotate: false
+  xy: 75, 2
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+gan2
+  rotate: false
+  xy: 129, 233
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 129, 217
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: true
+  xy: 109, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 75, 31
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+paodan
+  rotate: false
+  xy: 107, 41
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+yi
+  rotate: true
+  xy: 41, 5
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+feidie.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fd
+  rotate: false
+  xy: 178, 27
+  size: 168, 29
+  orig: 168, 29
+  offset: 0, 0
+  index: -1
+images/glow
+  rotate: false
+  xy: 1, 14
+  size: 176, 42
+  orig: 200, 50
+  offset: 12, 4
+  index: -1
+images/huo_001
+  rotate: false
+  xy: 1, 1
+  size: 51, 12
+  orig: 65, 30
+  offset: 9, 9
+  index: -1
+images/huo_008
+  rotate: false
+  xy: 1, 1
+  size: 51, 12
+  orig: 65, 30
+  offset: 9, 9
+  index: -1
+images/huo_002
+  rotate: false
+  xy: 208, 1
+  size: 49, 12
+  orig: 65, 30
+  offset: 10, 9
+  index: -1
+images/huo_003
+  rotate: false
+  xy: 157, 1
+  size: 50, 12
+  orig: 65, 30
+  offset: 10, 9
+  index: -1
+images/huo_004
+  rotate: false
+  xy: 53, 1
+  size: 51, 12
+  orig: 65, 30
+  offset: 9, 9
+  index: -1
+images/huo_005
+  rotate: false
+  xy: 178, 14
+  size: 50, 12
+  orig: 65, 30
+  offset: 9, 9
+  index: -1
+images/huo_006
+  rotate: false
+  xy: 229, 14
+  size: 49, 12
+  orig: 65, 30
+  offset: 10, 9
+  index: -1
+images/huo_007
+  rotate: false
+  xy: 105, 1
+  size: 51, 12
+  orig: 65, 30
+  offset: 9, 9
+  index: -1

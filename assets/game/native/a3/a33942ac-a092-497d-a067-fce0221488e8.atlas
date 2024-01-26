@@ -1,0 +1,104 @@
+
+kongtouzhadanren.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beikuang
+  rotate: true
+  xy: 1, 9
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+ganzi
+  rotate: false
+  xy: 41, 1
+  size: 15, 19
+  orig: 28, 28
+  offset: 13, 0
+  index: -1
+lun
+  rotate: false
+  xy: 57, 1
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 55, 23
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 117, 26
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+tuo1
+  rotate: true
+  xy: 101, 3
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+tuo2
+  rotate: true
+  xy: 127, 5
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 1, 1
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 149, 48
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 41, 21
+  size: 42, 13
+  orig: 44, 13
+  offset: 1, 0
+  index: -1
+zhayaotong
+  rotate: true
+  xy: 80, 24
+  size: 39, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 17, 1
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 79, 1
+  size: 21, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 144, 9
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+shengminghuifu.png
+size: 16,1366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_0000
+  rotate: false
+  xy: 1, 14
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+jx_0030
+  rotate: false
+  xy: 1, 32
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+x_0000
+  rotate: true
+  xy: 1, 1
+  size: 12, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+zl_0
+  rotate: false
+  xy: 1, 104
+  size: 7, 10
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+zl_1
+  rotate: false
+  xy: 1, 50
+  size: 7, 9
+  orig: 7, 14
+  offset: 0, 1
+  index: -1
+zl_2
+  rotate: false
+  xy: 1, 40
+  size: 7, 9
+  orig: 7, 14
+  offset: 0, 2
+  index: -1
+zl_3
+  rotate: false
+  xy: 1, 93
+  size: 7, 10
+  orig: 7, 14
+  offset: 0, 2
+  index: -1
+zl_4
+  rotate: false
+  xy: 1, 82
+  size: 7, 10
+  orig: 7, 14
+  offset: 0, 2
+  index: -1
+zl_5
+  rotate: false
+  xy: 1, 71
+  size: 7, 10
+  orig: 7, 14
+  offset: 0, 2
+  index: -1
+zl_6
+  rotate: false
+  xy: 1, 60
+  size: 7, 10
+  orig: 7, 14
+  offset: 0, 2
+  index: -1
+zl_7
+  rotate: false
+  xy: 1, 21
+  size: 6, 10
+  orig: 7, 14
+  offset: 0, 2
+  index: -1

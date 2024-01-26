@@ -1,0 +1,174 @@
+
+jiguangpao.png
+size: 1672,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/z_0
+  rotate: true
+  xy: 731, 12
+  size: 198, 138
+  orig: 230, 150
+  offset: 19, 4
+  index: -1
+1/z_2
+  rotate: false
+  xy: 1480, 195
+  size: 188, 141
+  orig: 230, 150
+  offset: 28, 4
+  index: -1
+1/z_4
+  rotate: true
+  xy: 989, 21
+  size: 194, 117
+  orig: 230, 150
+  offset: 8, 4
+  index: -1
+1/z_6
+  rotate: false
+  xy: 1396, 24
+  size: 150, 110
+  orig: 230, 150
+  offset: 38, 5
+  index: -1
+1/z_7
+  rotate: true
+  xy: 1548, 43
+  size: 150, 110
+  orig: 230, 150
+  offset: 38, 5
+  index: -1
+1/z_8
+  rotate: true
+  xy: 1346, 280
+  size: 190, 132
+  orig: 230, 150
+  offset: 17, 6
+  index: -1
+1/z_9
+  rotate: false
+  xy: 1480, 338
+  size: 190, 132
+  orig: 230, 150
+  offset: 17, 6
+  index: -1
+g/g_0000
+  rotate: true
+  xy: 167, 209
+  size: 261, 193
+  orig: 300, 250
+  offset: 20, 28
+  index: -1
+g/g_0001
+  rotate: true
+  xy: 997, 230
+  size: 240, 190
+  orig: 300, 250
+  offset: 28, 30
+  index: -1
+g/g_0002
+  rotate: true
+  xy: 1189, 254
+  size: 216, 155
+  orig: 300, 250
+  offset: 47, 52
+  index: -1
+g/g_0003
+  rotate: true
+  xy: 1243, 37
+  size: 215, 151
+  orig: 300, 250
+  offset: 48, 51
+  index: -1
+g/g_0004
+  rotate: true
+  xy: 281, 5
+  size: 202, 155
+  orig: 300, 250
+  offset: 60, 47
+  index: -1
+g/g_0005
+  rotate: true
+  xy: 584, 8
+  size: 199, 145
+  orig: 300, 250
+  offset: 64, 53
+  index: -1
+g/g_0006
+  rotate: true
+  xy: 120, 4
+  size: 202, 159
+  orig: 300, 250
+  offset: 63, 43
+  index: -1
+g/g_0007
+  rotate: true
+  xy: 438, 6
+  size: 201, 144
+  orig: 300, 250
+  offset: 62, 54
+  index: -1
+g/g_0008
+  rotate: true
+  xy: 871, 2
+  size: 213, 116
+  orig: 300, 250
+  offset: 60, 68
+  index: -1
+g/g_0009
+  rotate: true
+  xy: 2, 2
+  size: 204, 116
+  orig: 300, 250
+  offset: 61, 69
+  index: -1
+lizi/lizi_0006
+  rotate: false
+  xy: 1396, 136
+  size: 78, 142
+  orig: 400, 400
+  offset: 161, 123
+  index: -1
+lizi/lizi_0010
+  rotate: false
+  xy: 1108, 5
+  size: 133, 223
+  orig: 400, 400
+  offset: 121, 93
+  index: -1
+lizi/lizi_0014
+  rotate: false
+  xy: 847, 217
+  size: 148, 253
+  orig: 400, 400
+  offset: 108, 69
+  index: -1
+lizi/lizi_0016
+  rotate: false
+  xy: 692, 212
+  size: 153, 258
+  orig: 400, 400
+  offset: 105, 67
+  index: -1
+lizi/lizi_0020
+  rotate: false
+  xy: 531, 209
+  size: 159, 261
+  orig: 400, 400
+  offset: 101, 66
+  index: -1
+lizi/lizi_0024
+  rotate: false
+  xy: 2, 208
+  size: 163, 262
+  orig: 400, 400
+  offset: 97, 67
+  index: -1
+lizi/lizi_0026
+  rotate: false
+  xy: 362, 209
+  size: 167, 261
+  orig: 400, 400
+  offset: 95, 67
+  index: -1
